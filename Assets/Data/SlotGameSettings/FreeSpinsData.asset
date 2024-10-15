@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 672f3a1a398573743acc7b7d51145273, type: 3}
+  m_Name: FreeSpinsData
+  m_EditorClassIdentifier: 
+  lineData:
+  - cellDatas:
+    - sprite: {fileID: 21300000, guid: 6157a7660b4b1fc488e8e395d9032532, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 1
+    - sprite: {fileID: 21300000, guid: a4da1ede3dbc984408e8bed3bbf6c107, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 1.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: ce49d0d2fcf113443b9ccba28f081ee4, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 2
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: ff978fd14a363bb4f9c404ec1bd8e4cd, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: a4da1ede3dbc984408e8bed3bbf6c107, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 1.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+  - cellDatas:
+    - sprite: {fileID: 21300000, guid: a4da1ede3dbc984408e8bed3bbf6c107, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 1.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 8748dda7eeb77a347a9c07eed973cca3, type: 3}
+      subSprite: {fileID: 21300000, guid: 5d8873fb7c923d848ba85f5e02f47785, type: 3}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: ff978fd14a363bb4f9c404ec1bd8e4cd, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 42a8948b9225eb54e8a21537af0c2f60, type: 3}
+      subSprite: {fileID: 21300000, guid: 926fa458716be584f885f3ab56b32ff1, type: 3}
+      percentOfBet: 0
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 1
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 073c67467bcf19446a32b06451b93c30, type: 3}
+      subSprite: {fileID: 21300000, guid: e53f8716adf7c5547b740dc70df03083, type: 3}
+      percentOfBet: 0
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 1
+      isBonus: 0
+  - cellDatas:
+    - sprite: {fileID: 21300000, guid: a4da1ede3dbc984408e8bed3bbf6c107, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 1.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 14468bc05d1c61148a26f0e3451445f1, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: ce49d0d2fcf113443b9ccba28f081ee4, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 2
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 14468bc05d1c61148a26f0e3451445f1, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 1.25
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: ff978fd14a363bb4f9c404ec1bd8e4cd, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+  - cellDatas:
+    - sprite: {fileID: 21300000, guid: ff978fd14a363bb4f9c404ec1bd8e4cd, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 6157a7660b4b1fc488e8e395d9032532, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 1
+    - sprite: {fileID: 21300000, guid: ce49d0d2fcf113443b9ccba28f081ee4, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 2
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 6157a7660b4b1fc488e8e395d9032532, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 1
+    - sprite: {fileID: 21300000, guid: 8748dda7eeb77a347a9c07eed973cca3, type: 3}
+      subSprite: {fileID: 21300000, guid: 5d8873fb7c923d848ba85f5e02f47785, type: 3}
+      percentOfBet: 0
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 1
+      isBonus: 0
+  - cellDatas:
+    - sprite: {fileID: 21300000, guid: ce49d0d2fcf113443b9ccba28f081ee4, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 2
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: ff978fd14a363bb4f9c404ec1bd8e4cd, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 6157a7660b4b1fc488e8e395d9032532, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 0.5
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 1
+    - sprite: {fileID: 21300000, guid: 42a8948b9225eb54e8a21537af0c2f60, type: 3}
+      subSprite: {fileID: 21300000, guid: 926fa458716be584f885f3ab56b32ff1, type: 3}
+      percentOfBet: 0
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 1
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 073c67467bcf19446a32b06451b93c30, type: 3}
+      subSprite: {fileID: 21300000, guid: e53f8716adf7c5547b740dc70df03083, type: 3}
+      percentOfBet: 0
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 1
+      isBonus: 0
+  - cellDatas:
+    - sprite: {fileID: 21300000, guid: 8748dda7eeb77a347a9c07eed973cca3, type: 3}
+      subSprite: {fileID: 21300000, guid: 5d8873fb7c923d848ba85f5e02f47785, type: 3}
+      percentOfBet: 0
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 1
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 14468bc05d1c61148a26f0e3451445f1, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 1.25
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 14468bc05d1c61148a26f0e3451445f1, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 1.25
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 14468bc05d1c61148a26f0e3451445f1, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 1.25
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0
+    - sprite: {fileID: 21300000, guid: 14468bc05d1c61148a26f0e3451445f1, type: 3}
+      subSprite: {fileID: 0}
+      percentOfBet: 1.25
+      dropChance: 0
+      cellMulti: 0
+      hasMulti: 0
+      hasSub: 0
+      isBonus: 0

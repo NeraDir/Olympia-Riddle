@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 285c248f30f98c449b66e4230b093160, type: 3}
+  m_Name: MoveFromTheWalls
+  m_EditorClassIdentifier: 
+  _gameName: DON'T TOUCH THE WALLS
+  _gamePrefabIndex: 4
+  _gameSprite: {fileID: 21300000, guid: 29dbaec7383db3c44a16faa1090e1da1, type: 3}
+  _gameOpenSaveKey: DONTTOUCHTHEWALLSRIDDLESAVEKY
+  _gameOpenPrice: 200000
+  _achievmentsData: {fileID: 11400000, guid: 200da3062b645594d84241fb3754792c, type: 2}
+  _gameClosed: 1

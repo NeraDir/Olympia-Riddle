@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec056427c86a06a4ca4c4680e1980a2d, type: 3}
+  m_Name: Shop Data
+  m_EditorClassIdentifier: 
+  shopDatasList:
+  - sprite: {fileID: 21300000, guid: 666cbb618f8f6c74b8db2fd89327e849, type: 3}
+    price: 0
+  - sprite: {fileID: 21300000, guid: 1d710c446e2f2374286955bac55478b0, type: 3}
+    price: 1500
+  - sprite: {fileID: 21300000, guid: 2ecbefb4c84e5a34b9886fa9ec65fe70, type: 3}
+    price: 3500
+  - sprite: {fileID: 21300000, guid: 9190f9b0c35c6e64a9ae4c83e90b6061, type: 3}
+    price: 6500
+  - sprite: {fileID: 21300000, guid: 29dbaec7383db3c44a16faa1090e1da1, type: 3}
+    price: 9000
+  - sprite: {fileID: 21300000, guid: b8b3399ccc3693f48a0d812d90f86ccc, type: 3}
+    price: 13000
+  - sprite: {fileID: 21300000, guid: 6e1575a34dcc8774d85cf16ada5cba6e, type: 3}
+    price: 15500
+  - sprite: {fileID: 21300000, guid: f6f52e920b099bf4690a45d18a4a038d, type: 3}
+    price: 20000
